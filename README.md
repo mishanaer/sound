@@ -2,7 +2,7 @@
 
 Procedural interface sounds and a skill for adding them to websites.
 
-`sound` uses no audio files or dependencies. Sounds are generated in the
+Sound uses no audio files or dependencies. Sounds are generated in the
 browser with the Web Audio API, and every playback varies slightly through
 procedural noise so it feels less mechanical.
 
