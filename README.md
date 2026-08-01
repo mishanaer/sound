@@ -1,39 +1,23 @@
 # sound
 
-Процедурные интерфейсные звуки и скилл для их добавления на сайты.
+Procedural interface sounds and a skill for adding them to websites.
 
-`sound` не использует аудиофайлы и зависимости. Звуки создаются в браузере
-через Web Audio API.
+`sound` uses no audio files or dependencies. Sounds are generated in the
+browser with the Web Audio API.
 
-## Использование
+## Presets
 
-Передай агенту этот репозиторий и попроси использовать `$sound`.
+- `press` — press
+- `click` — click
+- `tap` — primary action
+- `hover` — hover
+- `select` — selection
+- `toggle` — state change
+- `tick` — discrete step
 
-Скилл скопирует `assets/ui-sounds.js` в проект и подключит существующие звуки
-к подходящим пользовательским действиям.
+## Behavior
 
-```js
-import { playUISound } from "./ui-sounds.js";
-
-button.addEventListener("click", () => {
-  playUISound("tap");
-  saveDocument();
-});
-```
-
-## Пресеты
-
-- `press` — нажатие
-- `click` — клик
-- `tap` — основное действие
-- `hover` — наведение
-- `select` — выбор
-- `toggle` — переключение
-- `tick` — дискретный шаг
-
-## Поведение
-
-- Каждый звук немного отличается из-за процедурного шума.
-- Звук не воспроизводится при системной настройке Reduce Motion.
-- `AudioContext` создаётся только при первом пользовательском действии.
-- Ошибки Web Audio тихо игнорируются.
+- Each sound varies slightly because of procedural noise.
+- Sound does not play when the system Reduce Motion preference is enabled.
+- `AudioContext` is created only on the first user interaction.
+- Web Audio errors are silently ignored.
