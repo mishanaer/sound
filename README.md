@@ -14,3 +14,8 @@ procedural noise so it feels less mechanical.
 - `select` — selection
 - `toggle` — state change
 - `tick` — discrete step
+
+### Skill
+
+Use `$sound` to add the bundled procedural sound engine to a website. The
+skill copies it into the project and places presets on relevant interface actions.
