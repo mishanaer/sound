@@ -1,5 +1,4 @@
-# ♪♬ sound ♫
-
+# ♪sound♫♬
 Procedural interface sounds and a skill for adding them to websites.
 
 Sound uses no audio files or dependencies. Sounds are generated in the
@@ -15,5 +14,3 @@ procedural noise so it feels less mechanical.
 - `select` — selection
 - `toggle` — state change
 - `tick` — discrete step
-
-♪ ♫ ♬ ♩ ♭ ♮ ♯ 𝄞 𝄢 𝄡 𝄫 
