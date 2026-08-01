@@ -1,5 +1,5 @@
 # ♪ ♫ ♬ ♩
-### Procedural interface sounds and a skill for adding them to websites
+## Procedural interface sounds and a skill for adding them to websites
 
 Sound uses no audio files or dependencies. Sounds are generated in the
 browser with the Web Audio API, and every playback varies slightly through
