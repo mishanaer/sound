@@ -1,0 +1,4 @@
+interface:
+  display_name: "sound"
+  short_description: "Add procedural UI sounds to websites"
+  default_prompt: "Use $sound to add the bundled procedural UI sounds to this website."
