@@ -1,15 +1,16 @@
-# ♪ ♫ ♬ ♩
-### Sound
+
+
+# Sound
 
 Sound is a procedural interface sound kit with no audio files or dependencies.
 Sounds are generated in the browser with the Web Audio API, and every playback
 varies slightly through procedural noise so it feels less mechanical
 
-### Skill
+## Skill
 
 Use `$sound` when you want an agent to add the right sound presets to existing interactions
 
-### Presets
+## Presets
 
 - `press` — press
 - `click` — click
@@ -19,3 +20,5 @@ Use `$sound` when you want an agent to add the right sound presets to existing i
 - `toggle` — state change
 - `tick` — discrete step
 
+
+# ♪ ♫ ♬ ♩
