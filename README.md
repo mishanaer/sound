@@ -1,6 +1,4 @@
 # ♪ ♫ ♬ ♩
-
-# sound
 Procedural interface sounds and a skill for adding them to websites.
 
 Sound uses no audio files or dependencies. Sounds are generated in the
