@@ -1,7 +1,7 @@
 # ♪ ♫ ♬ ♩
-### Procedural interface sounds
+### Sound
 
-Sound uses no audio files or dependencies. Sounds are generated in the
+Sound is a procedural interface sounds with no audio files or dependencies. Sounds are generated in the
 browser with the Web Audio API, and every playback varies slightly through
 procedural noise so it feels less mechanical
 
