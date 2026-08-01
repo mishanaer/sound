@@ -15,3 +15,12 @@ procedural noise so it feels less mechanical.
 - `select` — selection
 - `toggle` — state change
 - `tick` — discrete step
+
+       ♪
+    .-""""-.
+  _/  ◉  ◉  \_
+ /      ᴗ      \  ♫
+ \_   \___/   _/
+   `-._   _.-'
+       `─'
+    ♩       ♬
