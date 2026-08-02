@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="./assets/sound.svg" alt="Sound logo" width="180">
 </p>
 
