@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sound-logo.png" alt="Sound logo" width="180">
+  <img src="./assets/sound.svg" alt="Sound logo" width="180">
 </p>
 
 ## Sound
