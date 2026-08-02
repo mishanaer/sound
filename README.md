@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/sound-logo.png" alt="Sound logo" width="180">
+</p>
+
 ## Sound
 
 Sound is a procedural interface sound kit with no audio files or dependencies.
@@ -17,7 +21,6 @@ Use `$sound` when you want an agent to add the right sound presets to existing i
 - `select` — selection
 - `toggle` — state change
 - `tick` — discrete step
-
 
 
 ### ♪ ♫ ♬ ♩
